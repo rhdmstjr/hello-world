@@ -1,5 +1,5 @@
 # hello-world
-my first repository
+My first repository
 
 I edit this README file!!!
 ps) hello world!
